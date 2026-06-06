@@ -12,6 +12,9 @@ Over 7 days, I rebuilt and modernized several projects while refreshing core con
 * @State
 * @StateObject
 * @FocusState
+* @Observed vs Observable
+* SwiftUI View Hierarchy 
+* Property Wrappers
 * onChange
 * Custom Modifiers
 * State Management
